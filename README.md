@@ -1,5 +1,5 @@
 
-# 📥 Automação - Coleta de Contatos Não Salvos no WhatsApp Web
+# 📥 Automação - Coleta de Contatos Não Salvos no WhatsApp 📥
 
 Este projeto automatiza o processo de **identificação e salvamento de contatos não salvos** no WhatsApp Web. Ideal para quem recebe muitas mensagens de números desconhecidos (clientes, interessados, etc.) e precisa **salvar esses números rapidamente em massa**.
 
